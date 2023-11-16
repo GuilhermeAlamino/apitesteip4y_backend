@@ -44,6 +44,10 @@ DB_PASSWORD=
 
 `php artisan migrate`
 
+## Rodar o projeto
+
+`php artisan serve --port=8001`
+
 ## Próximos Passos (melhorias)
 
 - TUR -> Testes de Unidade de Recursividade
