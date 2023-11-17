@@ -56,7 +56,7 @@ DB_PASSWORD=
 | api/teste.ip4y/show/{id}      | Lista Cliente                   | GET   |
 | api/teste.ip4y/store          | Cria Cliente                    | POST  |
 | api/teste.ip4y/edit/{id}      | Atualiza Cliente                | PUT   |
-| api/teste.ip4y/delete/{id}    | Deleta Cliente                  | PUT   |
+| api/teste.ip4y/delete/{id}    | Deleta Cliente                  | DELETE|
 
 
 ## Próximos Passos (melhorias)
