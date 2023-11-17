@@ -48,6 +48,17 @@ DB_PASSWORD=
 
 `php artisan serve --port=8001`
 
+## Rotas criadas
+
+| Rota                          | Descrição                       | Tipo  |
+| ----------------------------- | ------------------------------- | ----- |
+| api/teste.ip4y/               | Lista Clientes                  | GET   |
+| api/teste.ip4y/show/{id}      | Lista Cliente                   | GET   |
+| api/teste.ip4y/store          | Cria Cliente                    | POST  |
+| api/teste.ip4y/edit/{id}      | Atualiza Cliente                | PUT   |
+| api/teste.ip4y/delete/{id}    | Deleta Cliente                  | PUT   |
+
+
 ## Próximos Passos (melhorias)
 
 - TUR -> Testes de Unidade de Recursividade
